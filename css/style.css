@@ -42,7 +42,7 @@ img{
 }
 
 img:hover{
-    filter:grayscale();
+    filter:grayscale(1);
 }
 
 img:nth-child(2n){
